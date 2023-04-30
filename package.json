@@ -1,8 +1,8 @@
 {
   "name": "teledrive",
   "version": "2.5.2",
-  "repository": "git@github.com:mgilangjanuar/teledrive.git",
-  "author": "M Gilang Januar <mgilangjanuar@teledriveapp.com>",
+  "repository": "git@github.com:alahimajnurosama/teledrive.git",
+  "author": "MarkAtorny <markatorny@gmail.com>",
   "license": "MIT",
   "private": true,
   "scripts": {
